@@ -3,6 +3,9 @@
 - [ ] https://campus.datacamp.com/courses/introduction-to-julia
 
 ```
+index based 1
+str = "AB"
+str[1] # 'A' char not string
 #=
 block comments
 println(1);
