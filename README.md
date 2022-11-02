@@ -14,4 +14,5 @@ string1 concat string 2: string1 * string2
 multiline string """
 one line
 two line """
+"interpolation $var"
 ```
