@@ -7,4 +7,5 @@
 block comments
 println(1);
 =#
+use other unicode chars like alpha, beta for variable names
 ```
