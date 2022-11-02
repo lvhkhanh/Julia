@@ -8,4 +8,6 @@ block comments
 println(1);
 =#
 use other unicode chars like alpha, beta for variable names
+String(1) # "1" <> '1'
+parse(Int64, "1") # 1
 ```
