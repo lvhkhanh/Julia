@@ -6,6 +6,7 @@
 index based 1
 str = "AB"
 str[1] # 'A' char not string
+str[end] # 'B'
 #=
 block comments
 println(1);
