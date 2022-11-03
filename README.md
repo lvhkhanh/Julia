@@ -21,4 +21,10 @@ two line """
 "interpolation $var"
 # data structure
 dict = Dict("key" => true, "key2" => "value")
+a = 1
+i = 0
+while i < a
+  global a = a + i # global
+
+
 ```
