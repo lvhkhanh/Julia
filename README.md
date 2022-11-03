@@ -22,9 +22,11 @@ two line """
 # data structure
 dict = Dict("key" => true, "key2" => "value")
 a = 1
-i = 0
+i = 0 # iterattor
 while i < a
   global a = a + i # global
+  i += 1
+end
 
 
 ```
