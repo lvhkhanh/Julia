@@ -19,4 +19,6 @@ multiline string """
 one line
 two line """
 "interpolation $var"
+# data structure
+dict = Dict("key" => true, "key2" => "value")
 ```
