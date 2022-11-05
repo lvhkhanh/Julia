@@ -34,4 +34,8 @@ typeof(arr) # Vector{Any}
 push!(arr, 1)
 el = pop!(arr)
 append!(arr, [1,2])
+function apply(el)
+  return el * 2
+end
+apply.([1,2]) # [2,4]
 ```
