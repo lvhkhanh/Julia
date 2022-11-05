@@ -1,6 +1,7 @@
 # Julia
 ## Certificates
 - [x] https://app.datacamp.com/profile/lvhkhanh
+- [x] introduction-to-julia https://www.datacamp.com/statement-of-accomplishment/course/f0751a2e1d9c67906122b0c5ff102e40a431438f
 ## Courses
 - [x] https://campus.datacamp.com/courses/introduction-to-julia
 
