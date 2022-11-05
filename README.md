@@ -39,4 +39,9 @@ function apply(el)
   return el * 2
 end
 apply.([1,2]) # [2,4]
+# multiple dispatch vs overloading
+function apply(x)
+end
+function apply(x::String)
+end
 ```
