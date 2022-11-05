@@ -1,6 +1,8 @@
 # Julia
+## Certificates
+- [x] https://app.datacamp.com/profile/lvhkhanh
 ## Courses
-- [ ] https://campus.datacamp.com/courses/introduction-to-julia
+- [x] https://campus.datacamp.com/courses/introduction-to-julia
 
 ```
 index based 1
