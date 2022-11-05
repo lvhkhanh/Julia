@@ -27,6 +27,8 @@ while i < a
   global a = a + i # global
   i += 1
 end
-
+# Vector: 1D array
+arr = [false, 1, "2",]
+# Matrix: 2D array
 
 ```
