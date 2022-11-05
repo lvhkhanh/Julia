@@ -28,7 +28,8 @@ while i < a
   i += 1
 end
 # Vector: 1D array
-arr = [false, 1, "2",]
+arr = [false, 1, "2", 3.14]
+typeof(arr) # Vector{Any}
 # Matrix: 2D array
 
 ```
