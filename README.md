@@ -31,5 +31,7 @@ end
 arr = [false, 1, "2", 3.14]
 typeof(arr) # Vector{Any}
 # Matrix: 2D array
-
+push!(arr, 1)
+el = pop!(arr)
+append!(arr, [1,2])
 ```
